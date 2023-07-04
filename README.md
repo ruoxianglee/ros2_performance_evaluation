@@ -23,6 +23,6 @@
 ### CARET
 - Kuboichi, Takahisa, Atsushi Hasegawa, Bo Peng, Keita Miura, Kenji Funaoka, Shinpei Kato, and Takuya Azumi. "**CARET: Chain-Aware ROS 2 Evaluation Tool.**" In 2022 IEEE 20th International Conference on Embedded and Ubiquitous Computing (EUC), pp. 1-8. IEEE, 2022. [Code](https://github.com/tier4/CARET), [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10086380)
   
-  <img width="400" alt="截屏2023-07-04 18 20 29" src="https://github.com/ruoxianglee/ros2_performance_evaluation/assets/36948139/5ad27a50-fe95-4d9e-85b2-9188b5da3f9a">
+  <img width="600" alt="截屏2023-07-04 18 20 29" src="https://github.com/ruoxianglee/ros2_performance_evaluation/assets/36948139/5ad27a50-fe95-4d9e-85b2-9188b5da3f9a">
 
 - Peng, Bo, Atsushi Hasegawa, and Takuya Azumi. "**Scheduling performance evaluation framework for ros 2 applications.**" 2022 IEEE 24th Int Conf on High Performance Computing & Communications; 8th Int Conf on Data Science & Systems; 20th Int Conf on Smart City; 8th Int Conf on Dependability in Sensor, Cloud & Big Data Systems & Application (HPCC/DSS/SmartCity/DependSys). IEEE, 2022.
