@@ -1,13 +1,15 @@
 # ros2_performance_evaluation
 
-
+- [iRobot Framework](https://github.com/irobot-ros/ros2-performance)
+- [ROS2 Performance](https://github.com/nobleo/ros2_performance)
+- [ROS2 Real-time Benchmark](https://ros-realtime.github.io/ros2_realtime_benchmarks/index.html)
 
 - Maruyama, Yuya, Shinpei Kato, and Takuya Azumi. "**Exploring the performance of ROS2.**" Proceedings of the 13th International Conference on Embedded Software. 2016. [PDF](https://web.ics.purdue.edu/~rvoyles/Classes/ROS_MFET642/Maruyama.ExploringROS2.2016.pdf)
 - Kronauer, Tobias, Joshwa Pohlmann, Maximilian Matthé, Till Smejkal, and Gerhard Fettweis. "**Latency analysis of ROS2 multi-node systems.**" In 2021 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI), pp. 1-7. IEEE, 2021. [PDF](https://www.barkhauseninstitut.org/fileadmin/user_upload/Publikationen/2021/2021_Kronauer_Latency.pdf)
 - Peeck, Jonas, Johannes Schlatow, and Rolf Ernst. "**Online latency monitoring of time-sensitive event chains in safety-critical applications.**" 2021 Design, Automation & Test in Europe Conference & Exhibition (DATE). IEEE, 2021. [PDF](https://leopard.tu-braunschweig.de/servlets/MCRFileNodeServlet/dbbs_derivate_00047947/techreport_monitoring.pdf)
 
 
-### ros2_tracing
+### ros2_tracing (based on [LTTng](https://lttng.org/docs/v2.13/) see also [this](https://lttng.org/man/7/lttng-concepts/v2.13/#doc-_description))
 - Bédard, Christophe, Ingo Lütkebohle, and Michel Dagenais. "**ros2_tracing: Multipurpose low-overhead framework for real-time tracing of ROS 2.**" IEEE Robotics and Automation Letters 7.3 (2022): 6511-6518. [Code](https://github.com/ros2/ros2_tracing), [PDF](https://arxiv.org/pdf/2201.00393.pdf)
 - Lajoie, Pierre-Yves, Christophe Bédard, and Giovanni Beltrame. "**Analyze, Debug, Optimize: Real-Time Tracing for Perception and Mapping Systems in ROS 2.**" arXiv preprint arXiv:2204.11778 (2022). [Code](https://github.com/christophebedard/ros2-message-flow-analysis), [PDF](https://arxiv.org/pdf/2204.11778.pdf)
 - Bédard, Christophe, Pierre-Yves Lajoie, Giovanni Beltrame, and Michel Dagenais. "**Message flow analysis with complex causal links for distributed ROS 2 systems.**" Robotics and Autonomous Systems 161 (2023): 104361. [Code](https://github.com/christophebedard/ros2-message-flow-analysis), [PDF](https://arxiv.org/pdf/2204.10208.pdf)
@@ -22,7 +24,7 @@
 - Betz, Tobias, Phillip Karle, Frederik Werner, and Johannes Betz. "**An Analysis of Software Latency for a High-Speed Autonomous Race Car—A Case Study in the Indy Autonomous Challenge.**" SAE International Journal of Connected and Automated Vehicles 6, no. 12-06-03-0018 (2023). [PDF](https://www.researchgate.net/profile/Tobias_Betz4/publication/368369298_An_Analysis_of_Software_Latency_for_a_High-Speed_Autonomous_Race_Car-A_Case_Study_in_the_Indy_Autonomous_Challenge/links/63e6694cc002331f726b9051/An-Analysis-of-Software-Latency-for-a-High-Speed-Autonomous-Race-Car-A-Case-Study-in-the-Indy-Autonomous-Challenge.pdf)
 
 ### CARET
-- Kuboichi, Takahisa, Atsushi Hasegawa, Bo Peng, Keita Miura, Kenji Funaoka, Shinpei Kato, and Takuya Azumi. "**CARET: Chain-Aware ROS 2 Evaluation Tool.**" In 2022 IEEE 20th International Conference on Embedded and Ubiquitous Computing (EUC), pp. 1-8. IEEE, 2022. [Code](https://github.com/tier4/CARET), [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10086380)
+- Kuboichi, Takahisa, Atsushi Hasegawa, Bo Peng, Keita Miura, Kenji Funaoka, Shinpei Kato, and Takuya Azumi. "**CARET: Chain-Aware ROS 2 Evaluation Tool.**" In 2022 IEEE 20th International Conference on Embedded and Ubiquitous Computing (EUC), pp. 1-8. IEEE, 2022. [Code](https://github.com/tier4/CARET), [Library to add tracepoints for CARET](https://github.com/tier4/CARET_trace/tree/main), [Homepage](https://tier4.github.io/CARET_doc/refs-tags-v0.4.11/), [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10086380)
   
   <img width="600" alt="截屏2023-07-04 18 20 29" src="https://github.com/ruoxianglee/ros2_performance_evaluation/assets/36948139/5ad27a50-fe95-4d9e-85b2-9188b5da3f9a">
 
