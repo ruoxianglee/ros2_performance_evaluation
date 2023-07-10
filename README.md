@@ -32,7 +32,7 @@
 
 ## ROS 1
 - [H(igh) A(ssurance) ROS - Static analysis of ROS application code](https://github.com/git-afsantos/haros)
-  <img width="810" alt="image" src="https://github.com/ruoxianglee/ros2_performance_evaluation/assets/36948139/b629c10b-87ef-479e-bec7-c3a70d370e49">
+  <img width="400" alt="image" src="https://github.com/ruoxianglee/ros2_performance_evaluation/assets/36948139/b629c10b-87ef-479e-bec7-c3a70d370e49">
 
 - [ros_test_generator](https://github.com/tecnalia-advancedmanufacturing-robotics/ros_test_generator)
 - [rostest](https://github.com/tecnalia-advancedmanufacturing-robotics/rostest_node_interface_validation)
