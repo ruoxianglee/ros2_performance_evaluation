@@ -1,5 +1,6 @@
 # ros2_performance_evaluation
 
+- [H(igh) A(ssurance) ROS - Static analysis of ROS application code](https://github.com/git-afsantos/haros)
 - [iRobot Framework](https://github.com/irobot-ros/ros2-performance)
 - [ROS2 Performance](https://github.com/nobleo/ros2_performance)
 - [ROS2 Real-time Benchmark](https://ros-realtime.github.io/ros2_realtime_benchmarks/index.html)
